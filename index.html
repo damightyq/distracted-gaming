@@ -11,24 +11,52 @@
         --secondary: #2f366a;
         --accent: #4d58eb;
       }
+      body {
+        background-color: var(--background);
+      }
       h1 {
         font-family: "Josefin Sans", sans-serif;
-      }
-      .header {
-        padding: 20px;
+        color: var(--text);
+        position: absolute;
+        top: 15%;
+        width: 100%;
         text-align: center;
-        background-color: accent;
+        font-size: 100px;
       }
-      footer {
-        background-color: secondary;
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        color: var(--text);
+        background-color: var(--primary);
+      }
+      li {
+        float: left;
+        font-family: "Josefin Sans", sans-serif;
+      }
+      li a {
+        color: var(--text);
+        display: block;
+        padding: 14px 16px;
+      }
+      
+      li a:link {
+        text-decoration: none;
+      }
+      li a:visited {
+        text-decoration: none;
+      }
+      li a:hover {
+        background-color: var(--secondary);
+        text-decoration: none;
+      }
+      li a:active {
+        text-decoration: none;
       }
     </style>
   </head>
   <body>
-    <header>
-      thingy
-    </header>
     <h1>Welcome to GamePlanner!</h1>
-    <footer>thung</footer>
   </body>
 </html>
