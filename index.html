@@ -4,27 +4,24 @@
     <title>GamePlanner Official Website</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin+Sans">
     <style>
-      body{
-        --text: #f1f2f1;
-        --background: #060706;
-        --primary: #4d58ab;
-        --secondary: #2f366a;
-        --accent: #4d58eb;
-      }
-      :root[data-theme="light"] {
+    @media (prefers-color-scheme: light) {
+      :root {
         --text: #0c0d0c;
         --background: #f7f8f7;
         --primary: #535eb2;
         --secondary: #959cd0;
         --accent: #141eb3;
       }
-      :root[data-theme="dark"] {
+    }
+    @media (prefers-color-scheme: dark) {
+       :root {
         --text: #f1f2f1;
         --background: #060706;
         --primary: #4d58ab;
         --secondary: #2f366a;
         --accent: #4d58eb;
       }
+    }
       h1 {
         font-family: "Josefin Sans", sans-serif;
       }
