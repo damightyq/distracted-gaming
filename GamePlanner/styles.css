@@ -42,8 +42,10 @@
 				position: absolute;
 				color: inherit;
 				height: inherit;
-				left: 100px;
+				left: 125px;
 				margin: 10px;
+				width: 100px;
+				align-items: center;
 			}
 			a.blog:hover {
 				color: var(--main-dark-color);
