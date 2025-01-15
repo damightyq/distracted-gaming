@@ -45,6 +45,8 @@
 				left: 125px;
 				margin: 10px;
 				width: 100px;
+				text-align: center;
+				display: flex;
 				align-items: center;
 			}
 			a.blog:hover {
