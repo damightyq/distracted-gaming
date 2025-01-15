@@ -42,10 +42,8 @@
 				position: absolute;
 				color: inherit;
 				height: inherit;
-				
 				margin: 0;
 				padding: 14px 16px;
-				text-align: center;
 			}
 			a.blog:hover {
 				color: var(--main-dark-color);
