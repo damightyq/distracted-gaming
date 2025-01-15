@@ -46,37 +46,17 @@
 				height: 100px;
 				text-align: left;
       	}
-	.dropdown .dropbtn {
-	font-size: 25px;
-	border: none;
-	outline: none;
-	color: var(--main-light-color);
-	padding: 14px 16px;
-	background-color: inherit;
-	font-family: inherit;
-	height: 110px;
-	margin: 0;
-}
-.dropdown:hover .dropbtn {
-	background-color: #3389ee;
-}
-.dropdown-content {
-		display: none;
-		position: absolute;
-		background-color: var(--main-color);
-		min-width: 160px;
-		z-index: 1;
-}
-.dropdown-content a {
-		float: none;
-		padding: 12px 16px;
-		display: block;
-		text-align: left;
-		color: var(--main-light-color);
-}
-.dropdown:hover .dropdown-content {
-		display: block;
-}
+		a.blog {
+				text-decoration: none;
+				-webkit-user-select: none;
+				position: absolute;
+				margin: 10px;
+			}
+			a.blog:hover {
+				color: var(--main-dark-color);
+				background: var(--main-light-color);
+			}
+
 			button.material-icons-outlined {
 				-webkit-user-select: none;
 				color: var(--main-light-color);
@@ -131,6 +111,7 @@ function darkMode() {
 	element.classList.toggle("dark-mode");
 }
 </script>
+	<a href="./blog" class="blog">Blog</a>
    </header>
   <body>
     <div class=welcome>Welcome to GamePlanner!</div>
