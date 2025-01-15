@@ -36,6 +36,7 @@
 				height: 100px;
       	}
 		a.blog {
+				display: flex;
 				text-decoration: none;
 				-webkit-user-select: none;
 				position: absolute;
@@ -46,7 +47,6 @@
 				width: 100px;
 				padding: 14px 16px;
 				text-align: center;
-				display: flex;
 				align-items: center;
 			}
 			a.blog:hover {
