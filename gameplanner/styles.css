@@ -87,7 +87,8 @@ div.welcome {
 	font-weight: 500;
 }
 img {
-	height: 150%;
+	-webkit-transform: scaleX(-1);
+	transform: scale(2);
 }
 footer {
 	justify-content: center;
