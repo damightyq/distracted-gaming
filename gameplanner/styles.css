@@ -87,7 +87,6 @@ div.welcome {
 	font-weight: 500;
 }
 img {
-	-webkit-transform: scaleX(-1);
 	transform: scale(2);
 }
 footer {
