@@ -44,6 +44,7 @@ a.blog {
 	color: inherit;
 	height: inherit;
 	padding: 14px;
+	box-sizing: border-box;
 	width: 100px;
 	left: 125px;
 	text-align: right;
