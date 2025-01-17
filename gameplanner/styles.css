@@ -88,7 +88,7 @@ div.welcome {
 	font-weight: 500;
 }
 div.blog {
-	background-color: var(--main-dark-color);
+	background-color: var(--main-color);
 	margin: 15px;
 }
 img {
