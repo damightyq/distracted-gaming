@@ -87,6 +87,10 @@ div.welcome {
        	font-size: 50px;
 	font-weight: 500;
 }
+div.blog {
+	background-color: var(--main-dark-color);
+	margin: 15px;
+}
 img {
 	z-index: -1;
 }
