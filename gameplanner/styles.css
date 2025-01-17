@@ -97,8 +97,10 @@ div.blog {
 	height: 100%;
 	width: 75%;
 	text-align: left;
-	margin: auto;
 	display: inline-block;
+}
+div.blog + div.blog {
+	margin-top: 25 px;
 }
 div.title {
 	font-size: 35px;
