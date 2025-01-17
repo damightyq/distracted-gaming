@@ -89,6 +89,7 @@ body {
 	top: 115px;
 	line-height: 1.5;
 	justify-content: space-around;
+	min-height: 100%;
 }
 div.welcome {
         text-align: center;
