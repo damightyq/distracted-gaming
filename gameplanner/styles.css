@@ -46,7 +46,7 @@ a.blog {
 	padding: 14px;
 	width: 100px;
 	left: 125px;
-	text-align: center;
+	text-align: right;
 	align-items: center;
 }
 a.blog:hover {
