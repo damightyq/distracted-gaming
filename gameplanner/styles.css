@@ -75,6 +75,8 @@ a.home {
 body {
 	position:relative;
 	display: flex;
+	flex-direction: column;
+	gap: 25px;
         background-color: var(--main-light-color);
         font-family: "Josefin Sans", sans-serif;
 	font-size:25px;
@@ -91,16 +93,14 @@ div.welcome {
 	font-weight: 500;
 }
 div.blog {
+	position: relative;
+	top: 25px;
 	background-color: var(--main-color);
 	color: var(--main-light-color);
 	padding: 25px;
-	height: 100%;
+	height: auto;
 	width: 75%;
 	text-align: left;
-	display: inline-block;
-}
-div.blog + div.blog {
-	margin-top: 25 px;
 }
 div.title {
 	font-size: 35px;
