@@ -95,7 +95,7 @@ div.welcome {
        	font-size: 50px;
 	font-weight: 500;
 }
-div.welcome, a:link, a:visited, a:hover, a:active {
+div.welcome:link, div.welcome:visited, div.welcome:hover, div.welcome:active {
 	color: var(--main-dark-color);
 	text-decoration: underline;
 }
@@ -120,7 +120,7 @@ footer {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	position: relative;
+	position: absolute;
 	width: 125%;
 	left: -12%;
 	bottom: 0;
