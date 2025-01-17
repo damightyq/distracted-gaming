@@ -92,7 +92,7 @@ div.blog {
 	position: relative;
 	top: 25px;
 	background-color: var(--main-color);
-	color: var(--main-text-color);
+	color: var(--main-light-color);
 	padding: 25px;
 	height: auto;
 	width: 75%;
