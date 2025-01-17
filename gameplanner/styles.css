@@ -89,6 +89,7 @@ div.welcome {
 }
 div.blog {
 	background-color: var(--main-color);
+	color: var(--main-text-color);
 	margin: 15px;
 	text-align: left;
 }
