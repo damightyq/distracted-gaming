@@ -47,8 +47,8 @@ a.blog {
 	box-sizing: border-box;
 	width: 100px;
 	left: 125px;
-	text-align: right;
-	align-items: center;
+	text-align: center;
+	justify-content: center;
 }
 a.blog:hover {
 	color: var(--main-dark-color);
