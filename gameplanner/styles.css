@@ -83,6 +83,7 @@ body {
         color: var(--main-text-color);
 	text-align: center;
         overflow-x: hidden;
+	align-items: center;
 	top: 115px;
 	line-height: 1.5;
 	justify-content: space-around;
