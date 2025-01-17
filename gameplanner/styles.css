@@ -94,6 +94,9 @@ div.welcome {
        	font-size: 50px;
 	font-weight: 500;
 }
+div.welcome.a:link {
+	color: var(--main-dark-color);
+}
 div.blog {
 	position: relative;
 	top: 25px;
