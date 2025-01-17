@@ -94,8 +94,9 @@ div.welcome {
        	font-size: 50px;
 	font-weight: 500;
 }
-div.welcome.a:link {
+div.welcome a:link {
 	color: var(--main-dark-color);
+	text-decoration: underline;
 }
 div.blog {
 	position: relative;
