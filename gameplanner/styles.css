@@ -89,9 +89,6 @@ div.welcome {
 	font-weight: 500;
 }
 div.blog {
-	position: relative;
-	display: inline-block;
-	top: 25px;
 	background-color: var(--main-color);
 	color: var(--main-light-color);
 	padding: 25px;
@@ -99,6 +96,7 @@ div.blog {
 	width: 75%;
 	text-align: left;
 	margin: auto;
+	display: inline-block;
 }
 div.title {
 	font-size: 35px;
