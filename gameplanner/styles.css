@@ -95,7 +95,7 @@ div.welcome {
        	font-size: 50px;
 	font-weight: 500;
 }
-div.welcome a:link {
+div.welcome, a:link {
 	color: var(--main-dark-color);
 	text-decoration: underline;
 }
@@ -106,7 +106,6 @@ div.blog {
 	color: var(--main-light-color);
 	padding: 25px;
 	width: 75%;
-	margin: auto;
 	text-align: left;
 }
 div.title {
