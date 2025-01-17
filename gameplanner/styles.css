@@ -91,6 +91,7 @@ div.blog {
 	background-color: var(--main-color);
 	color: var(--main-text-color);
 	padding: 25px;
+	height: auto;
 	text-align: left;
 }
 div.title {
