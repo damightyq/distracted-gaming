@@ -90,6 +90,11 @@ div.welcome {
 div.blog {
 	background-color: var(--main-color);
 	margin: 15px;
+	text-align: left;
+}
+div.title {
+	font-size: 35px;
+	font-weight: 500;
 }
 img {
 	z-index: -1;
