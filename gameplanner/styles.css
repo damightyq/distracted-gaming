@@ -108,6 +108,7 @@ div.blog {
 	padding: 25px;
 	width: 75%;
 	height: 25%;
+	margin-bottim: 25%
 	text-align: left;
 }
 div.title {
@@ -123,7 +124,6 @@ footer {
 	text-align: center;
 	position: relative;
 	width: 125%;
-	
 	bottom: 0;
 	font-family: League Spartan;
 	background-color: var(--main-text-color);
