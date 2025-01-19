@@ -109,6 +109,7 @@ div.blog {
 	width: 75%;
 	height: 25%;
 	margin-bottom: 25%;
+	align-items: left;
 	text-align: left;
 }
 div.title {
