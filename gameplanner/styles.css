@@ -99,8 +99,8 @@ a.welcome:link, a.welcome:visited, a.welcome:hover, a.welcome:active {
 	color: var(--main-dark-color);
 	text-decoration: underline;
 }
-a:link, a:visited, a:hover, a:active {
-	color: var(--main-dark-color);
+a.link:link, a.link:visited, a.link:hover, a.link:active {
+	color: var(--main-light-color);
 	text-decoration: underline;
 }
 div.blog {
