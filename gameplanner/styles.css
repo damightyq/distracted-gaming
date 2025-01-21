@@ -99,6 +99,9 @@ a.welcome:link, a.welcome:visited, a.welcome:hover, a.welcome:active {
 	color: var(--main-dark-color);
 	text-decoration: underline;
 }
+a:link, a:visited, a:hover, a:active {
+	text-decoration: underline;
+}
 div.blog {
 	top: 25px;
 	position: relative;
