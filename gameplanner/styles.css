@@ -6,15 +6,15 @@
 }
 .dark-mode {
 	--main-color: #3d3c00;
-        --main-dark-color: #edd63d;
-        --main-light-color: #3d3c00;
+        --main-dark-color: #ffffe7;
+        --main-light-color: #edd63d;
 	--main-text-color: #ffffe7;
 }
 @media (prefers-color-scheme: dark) {
 	:root {
 		--main-color: #3d3c00;
-        	--main-dark-color: #edd63d;
-        	--main-light-color: #3d3c00;
+        	--main-dark-color: #ffffe7;
+        	--main-light-color: #edd63d;
 		--main-text-color: #ffffe7;
 	}
 	.dark-mode {
