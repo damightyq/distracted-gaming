@@ -98,6 +98,8 @@ body {
 a.welcome:link, a.welcome:visited, a.welcome:hover, a.welcome:active {
 	color: var(--main-dark-color);
 	text-decoration: underline;
+	font-size: 50px;
+	font-weight: 500;
 }
 a.link:link, a.link:visited, a.link:hover, a.link:active {
 	color: var(--main-light-color);
