@@ -106,11 +106,12 @@ a.link:link, a.link:visited, a.link:hover, a.link:active {
 	text-decoration: underline;
 }
 a.button:link, a.button:visited, a.button:active {
-	background-color: var(--main-color);
+	background-color: var(--main-dark-color);
 	color: var(--main-light-color);
 	text-decoration: none;
-	padding: 15px;
+	padding: auto;
 	border-radius: 25px;
+	margin: 25px;
 }
 div.blog {
 	top: 25px;
@@ -139,6 +140,6 @@ footer {
 	width: 125%;
 	bottom: 0;
 	font-family: League Spartan;
-	background-color: var(--main-color);
+	background-color: var(--main-light-color);
 	color: var(--main-text-color);
 }
