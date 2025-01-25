@@ -90,7 +90,7 @@ body {
 	justify-content: space-around;
 	min-height: 100%;
 }
-div.welcome {
+.welcome {
         text-align: center;
        	font-size: 50px;
 	font-weight: 500;
