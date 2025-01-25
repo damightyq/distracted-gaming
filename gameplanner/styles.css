@@ -52,7 +52,7 @@ a.blog {
 	align-items: center;
 }
 a.blog:hover {
-	color: var(--main-dark-color);
+	color: var(--main-light-color);
 	background: var(--main-light-color);
 }
 
@@ -107,6 +107,7 @@ a.link:link, a.link:visited, a.link:hover, a.link:active {
 }
 a.button:link, a.button:visited, a.button:active {
 	background-color: var(--main-color);
+	color: var(--main-light-color);
 }
 div.blog {
 	top: 25px;
