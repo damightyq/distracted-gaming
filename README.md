@@ -9,4 +9,4 @@ We used GitHub and it's Pages tool because:
 2. We have pretty much everything in our hands to make the website any way we want to. Not like Squarespace or stuff like that. Blegh! 
 3. It's open source and we can work on it together all at once!
 
-The website is still under construction, so everything (except the branding for now), is not final.
+The website is still under construction, so everything (except the branding for now) is not final, even this readme.
