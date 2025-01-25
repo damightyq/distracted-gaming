@@ -5,8 +5,8 @@ Hey! This is the source code for our website. This contains our main page, GameP
 
 We used GitHub and it's Pages tool because: 
 
-A. It's free to use 
-B. We have pretty much everything in our hands to make the website any way we want to. Not like Squarespace or stuff like that. Blegh! 
-C. It's open source and we can work on it together all at once!
+1. It's free to use 
+2. We have pretty much everything in our hands to make the website any way we want to. Not like Squarespace or stuff like that. Blegh! 
+3. It's open source and we can work on it together all at once!
 
 The website is still under construction, so everything (except the branding for now), is not final.
