@@ -52,7 +52,7 @@ a.blog {
 	align-items: center;
 }
 a.blog:hover {
-	color: var(--main-light-color);
+	color: var(--main-color);
 	background: var(--main-light-color);
 }
 
@@ -136,6 +136,6 @@ footer {
 	width: 125%;
 	bottom: 0;
 	font-family: League Spartan;
-	background-color: var(--main-text-color);
+	background-color: var(--main-light-color);
 	color: var(--main-color);
 }
