@@ -113,6 +113,9 @@ a.button:link, a.button:visited, a.button:active {
 	border-radius: 25px;
 	margin: 25px;
 }
+a.distracted:link, a.distracted:visited, a.distracted:hover, a.distracted:active {
+	color: var(--main-text-color);
+}
 div.blog {
 	top: 25px;
 	position: relative;
@@ -132,7 +135,7 @@ div.title {
 img {
 	z-index: -1;
 }
-footer, footer:link, footer:visited, footer:hover, footer:active {
+footer {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
