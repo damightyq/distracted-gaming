@@ -8,14 +8,14 @@
 	--main-color: #edd63d;
         --main-dark-color: #ffffe7;
         --main-light-color: #3d3c00;
-	--main-text-color: #ffffe7;
+	--main-text-color: #3d3c00;
 }
 @media (prefers-color-scheme: dark) {
 	:root {
 		--main-color: #edd63d;
         	--main-dark-color: #ffffe7;
         	--main-light-color: #3d3c00;
-		--main-text-color: #ffffe7;
+		--main-text-color: #3d3c00;
 	}
 	.dark-mode {
 		--main-color: #edd63d;
@@ -80,7 +80,7 @@ body {
         background-color: var(--main-light-color);
         font-family: "Josefin Sans", sans-serif;
 	font-size:25px;
-        color: var(--main-text-color);
+        color: var(--main-dark-color);
 	text-align: center;
         overflow-x: hidden;
 	align-items: center;
@@ -106,7 +106,7 @@ a.link:link, a.link:visited, a.link:hover, a.link:active {
 	text-decoration: underline;
 }
 a.button:link, a.button:visited, a.button:active {
-	background-color: var(--main-dark-color);
+	background-color: var(--main-color);
 	color: var(--main-light-color);
 	text-decoration: none;
 	padding: auto;
@@ -117,7 +117,7 @@ div.blog {
 	top: 25px;
 	position: relative;
 	background-color: var(--main-color);
-	color: var(--main-light-color);
+	color: var(--main-text-color);
 	padding: 25px;
 	width: 75%;
 	height: 25%;
