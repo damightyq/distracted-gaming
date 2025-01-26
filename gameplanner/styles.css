@@ -69,7 +69,7 @@ button.material-icons-outlined {
 a.home {
 	text-decoration: none;
 	-webkit-user-select: none;
-	color: var(--main-color);
+	color: var(--main-text-color);
 	position: absolute;
 	margin: 10px;
 }
