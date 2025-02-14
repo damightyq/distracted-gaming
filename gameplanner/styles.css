@@ -145,6 +145,6 @@ footer {
 	width: 125%;
 	bottom: 0;
 	font-family: League Spartan;
-	background-color: var(--main-color);
-	color: var(--main-text-color);
+	background-color: var(--main-dark-color);
+	color: var(--main-color);
 }
