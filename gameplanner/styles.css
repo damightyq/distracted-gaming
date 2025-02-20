@@ -134,6 +134,9 @@ div.title {
 	font-size: 35px;
 	font-weight: 500;
 }
+div.title a:link, div.title a:visited, div.title a:hover, div.title a:active {
+	color: var(--main-dark-color);
+	text-decoration: underline;
 img {
 	z-index: -1;
 }
