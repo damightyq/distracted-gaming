@@ -147,8 +147,7 @@ footer {
 	align-items: center;
 	text-align: center;
 	position: relative;
-	margin: auto;
-	width: 100%;
+	width: 125%;
 	bottom: 0;
 	font-family: League Spartan;
 	background-color: var(--main-dark-color);
