@@ -103,7 +103,7 @@ a.welcome:link, a.welcome:visited, a.welcome:hover, a.welcome:active {
 	font-weight: 500;
 }
 a.link:link, a.link:visited, a.link:hover, a.link:active {
-	color: var(--main-text-color);
+	color: var(--main-light-color);
 	text-decoration: underline;
 }
 a.button:link, a.button:visited, a.button:active {
