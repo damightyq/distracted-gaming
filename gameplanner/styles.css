@@ -136,7 +136,7 @@ div.title {
 	font-weight: 500;
 }
 div.title a:link, div.title a:visited, div.title a:hover, div.title a:active {
-	color: var(--main-text-color);
+	color: var(--main-light-color);
 	text-decoration: underline;
 }
 img {
