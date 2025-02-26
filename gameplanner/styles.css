@@ -117,7 +117,7 @@ a.button:link, a.button:visited, a.button:active {
 	margin: 25px;
 }
 a.distracted:link, a.distracted:visited, a.distracted:hover, a.distracted:active {
-	color: var(--main-text-color);
+	color: var(--main-dark-color);
 }
 div.blog {
 	top: 25px;
