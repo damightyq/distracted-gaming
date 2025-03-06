@@ -139,6 +139,10 @@ div.title a:link, div.title a:visited, div.title a:hover, div.title a:active {
 	color: var(--main-light-color);
 	text-decoration: underline;
 }
+audio::-webkit-media-controls-panel {
+	background-color: var(--main-light-color);
+	color: var(--main-dark-color);
+}
 img {
 	z-index: -1;
 }
