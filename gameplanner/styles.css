@@ -136,9 +136,9 @@ div.title {
 	font-weight: 500;
 }
 div.explain {
-	background-color: var(--main-light-color);
-	color: var(--main-dark-color);
-	margin: 5px;
+	background-color: var(--main-color);
+	color: var(--main-light-color);
+	padding: 25px;
 	border-radius: 25px;
 }
 div.title a:link, div.title a:visited, div.title a:hover, div.title a:active {
