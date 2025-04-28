@@ -153,10 +153,12 @@ img {
 	z-index: -1;
 }
 footer {
+	display: flex;
 	justify-content: center;
 	align-items: center;
 	text-align: center;
 	position: relative;
+	justify-content: center;
 	width: 125%;
 	bottom: 0;
 	font-family: League Spartan;
