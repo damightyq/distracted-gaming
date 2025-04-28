@@ -87,7 +87,7 @@ body {
 	margin: auto;
 	top: 115px;
 	line-height: 1.5;
-	justify-content: space-around;
+	justify-content: center;
 	max-width: 10000px;
 	min-height: 100%;
 }
